@@ -1,4 +1,4 @@
-# Run Buddy 2.0
+# Run Buddy 2.0 Inc.
 
 original run-buddy were missing files
 
